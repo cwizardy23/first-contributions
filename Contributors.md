@@ -744,6 +744,7 @@ Subhajit Bera
 - [danithang](https://github.com/danithang)
 - sam
 - [Sansar Maske](https://github.com/sansarmaske)
+- [cwzardy23](https://github.com/cwizardy23)
 - [Pavel H.](https://github.com/holecekp)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [c-abell](https://github.com/c-abell)
